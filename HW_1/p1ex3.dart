@@ -15,3 +15,10 @@ void main() {
     print("OTHER");
   }
 }
+
+/* Классификатор
+ in      out
+  6      DIGIT
+  15     NUM
+  125    OTHER
+*/

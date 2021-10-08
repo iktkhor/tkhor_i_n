@@ -9,3 +9,8 @@ void main() {
 
   print(input[0] * input[0] + input[1] * input[1]);
 }
+
+/* Диагональ прямоугольника
+ in      out
+4 8      80
+*/
