@@ -17,3 +17,10 @@ void main() {
 
   print("$counter $remains");
 }
+
+/* Остаток от деления
+ in      out
+12 3     4 0
+15 17    0 15
+23 5     4 3
+*/
