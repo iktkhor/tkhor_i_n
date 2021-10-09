@@ -14,7 +14,7 @@ void main() {
   print(fibonachi(int.parse(stdin.readLineSync()!)));
 }
 
-/*  Рекурсивный метод нахождения чисел Фибоначчи
+/*   Рекурсивный метод нахождения чисел Фибоначчи
   in   out
   10   34
 
