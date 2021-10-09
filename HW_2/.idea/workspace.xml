@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="869a01b0-997e-41f7-88bb-9a6e075c3eb0" name="Changes" comment="add lvl 3 ex 1">
+    <list default="true" id="869a01b0-997e-41f7-88bb-9a6e075c3eb0" name="Changes" comment="add lvl 3 ex 2">
       <change afterPath="$PROJECT_DIR$/p2ex2.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2ex3.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2ex3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/p2ex3.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633799922833</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add lvl 3 ex 2">
+      <created>1633805147660</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633805147660</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add lvl 3 ex 2">
+      <created>1633805214825</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633805214825</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,8 +166,8 @@
     <MESSAGE value="add lvl 1 ex 2" />
     <MESSAGE value="add lvl 1 ex 3" />
     <MESSAGE value="add lvl 2 ex 1" />
-    <MESSAGE value="add lvl 3 ex 2" />
     <MESSAGE value="add lvl 3 ex 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lvl 3 ex 1" />
+    <MESSAGE value="add lvl 3 ex 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lvl 3 ex 2" />
   </component>
 </project>
